@@ -1,15 +1,11 @@
 name: Progress Bar CI
-
 on:
   workflow_dispatch:
   schedule:
     - cron: '59 23 * * *'
-
 jobs:
   build:
-
     runs-on: ubuntu-latest
-
     steps:
     - uses: actions/checkout@v2
     - name: Use Node.js

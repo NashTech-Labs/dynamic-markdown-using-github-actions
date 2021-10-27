@@ -1,1 +1,2 @@
-# dynamic-markdown-using-github-actions
+⏳ **Year Progress** { ████████████████████████▁▁▁▁▁▁ } 81.72 % as on ⏰ 25-Oct-2021
+
